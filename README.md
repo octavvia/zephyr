@@ -1,4 +1,4 @@
-# Streaming Project
+# Streaming Project by octavia ✨
 
 ![callingyou drawio (1)](https://github.com/vviia/zephyr/assets/86775678/2ba64be6-8ec1-4fac-97e2-bf6f98a29fcc)
 
