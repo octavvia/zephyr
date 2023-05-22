@@ -1,6 +1,6 @@
 # Video Call Project
 
-![callingyou drawio (1)](https://github.com/vviia/zephyr/assets/86775678/9d17de33-d904-4978-98d6-5496e6f10ef1)
+![callingyou drawio (1)](https://github.com/vviia/zephyr/assets/86775678/2ba64be6-8ec1-4fac-97e2-bf6f98a29fcc)
 
 
 ## Development
