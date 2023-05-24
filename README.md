@@ -24,3 +24,5 @@ For production;
 ```sh
 make run-prod
 ```
+example test ( need creative ui ) 
+![image](https://github.com/vviia/zephyr/assets/86775678/9d83ad49-fb8d-40e7-b86b-11ce01c9d162)
