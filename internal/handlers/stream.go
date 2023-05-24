@@ -56,6 +56,7 @@ func StreamWebsocket(c *websocket.Conn) {
 }
 
 func StreamViewerWebsocket(c *websocket.Conn) {
+	// stream := c.Params("stream")
 	suuid := c.Params("suuid")
 	if suuid == "" {
 		return

@@ -114,7 +114,12 @@ func roomViewerConn(c *websocket.Conn, p *w.Peers) {
 	}
 }
 
+//	type websocketMessage struct {
+//		Event string `json:"event"`
+//		Data  string `json:"data"`
+//	}
 type websocketMessage struct {
+	// websoketMessage is the message sent to the server
 	Event string `json:"event"`
 	Data  string `json:"data"`
 }
