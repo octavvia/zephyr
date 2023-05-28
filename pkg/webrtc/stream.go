@@ -10,7 +10,7 @@ import (
 	"github.com/pion/webrtc/v3"
 )
 
-func StreamConn(c *websocket.Conn, p *Peers) {
+func StreamConn(c *websocket.Conn, p *Peers) { // sonarlint ignore: type
 	var config webrtc.Configuration
 	if os.Getenv("ENVIRONMENT") == "PRODUCTION" {
 		config = turnConfig

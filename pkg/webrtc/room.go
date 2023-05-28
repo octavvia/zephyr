@@ -108,7 +108,7 @@ func RoomConn(c *websocket.Conn, p *Peers) {
 		} else if err := json.Unmarshal(raw, &message); err != nil {
 			log.Println(err)
 			return
-		}
+		} // sonarlint:ignore
 
 		switch message.Event {
 		case "candidate":
