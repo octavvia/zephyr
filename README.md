@@ -24,3 +24,9 @@ For production;
 ```sh
 make run-prod
 ```
+
+ToDo :
+- fix chat fiture
+- clean archi
+- creative ui
+- add some fiture like a tip 
