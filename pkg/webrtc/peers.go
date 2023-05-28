@@ -13,6 +13,7 @@ import (
 	"v/pkg/chat"
 )
 
+// fix error soket close websocket: close 1006 (abnormal closure): unexpected EOF
 var (
 	RoomsLock sync.RWMutex
 	Rooms     map[string]*Room
