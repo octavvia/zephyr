@@ -25,6 +25,10 @@ For production;
 make run-prod
 ```
 
+api documentation : [to do]
+
+
+
 ToDo :
 - fix chat fiture
 - clean archi
